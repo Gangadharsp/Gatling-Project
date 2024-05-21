@@ -1,0 +1,317 @@
+{
+  "type": "GROUP",
+"name": "Global Information",
+"path": "",
+"pathFormatted": "group_missing-name-b06d1",
+"stats": {
+    "name": "Global Information",
+    "numberOfRequests": {
+        "total": 104,
+        "ok": 104,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 232,
+        "ok": 232,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 1168,
+        "ok": 1168,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 261,
+        "ok": 261,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 137,
+        "ok": 137,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 236,
+        "ok": 236,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 239,
+        "ok": 239,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 257,
+        "ok": 257,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 1004,
+        "ok": 1004,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 101,
+    "percentage": 97
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 3,
+    "percentage": 3
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 3.8518518518518516,
+        "ok": 3.8518518518518516,
+        "ko": 0
+    }
+},
+"contents": {
+"req_login-99dea": {
+        "type": "REQUEST",
+        "name": "Login",
+"path": "Login",
+"pathFormatted": "req_login-99dea",
+"stats": {
+    "name": "Login",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 1,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 1005,
+        "ok": 1005,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 1005,
+        "ok": 1005,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 1005,
+        "ok": 1005,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 1005,
+        "ok": 1005,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 1005,
+        "ok": 1005,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 1005,
+        "ok": 1005,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 1005,
+        "ok": 1005,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 1,
+    "percentage": 100
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.037037037037037035,
+        "ok": 0.037037037037037035,
+        "ko": 0
+    }
+}
+    },"req_get-contacts-fo-add22": {
+        "type": "REQUEST",
+        "name": "Get Contacts for delete",
+"path": "Get Contacts for delete",
+"pathFormatted": "req_get-contacts-fo-add22",
+"stats": {
+    "name": "Get Contacts for delete",
+    "numberOfRequests": {
+        "total": 1,
+        "ok": 1,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 1168,
+        "ok": 1168,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 1168,
+        "ok": 1168,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 1168,
+        "ok": 1168,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 1168,
+        "ok": 1168,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 1168,
+        "ok": 1168,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 1168,
+        "ok": 1168,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 1168,
+        "ok": 1168,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 1,
+    "percentage": 100
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.037037037037037035,
+        "ok": 0.037037037037037035,
+        "ko": 0
+    }
+}
+    },"req_delete-contact-4399d": {
+        "type": "REQUEST",
+        "name": "Delete Contact",
+"path": "Delete Contact",
+"pathFormatted": "req_delete-contact-4399d",
+"stats": {
+    "name": "Delete Contact",
+    "numberOfRequests": {
+        "total": 102,
+        "ok": 102,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 232,
+        "ok": 232,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 973,
+        "ok": 973,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 245,
+        "ok": 245,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 73,
+        "ok": 73,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 236,
+        "ok": 236,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 239,
+        "ok": 239,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 250,
+        "ok": 250,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 273,
+        "ok": 273,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 101,
+    "percentage": 99
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 1,
+    "percentage": 1
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 3.7777777777777777,
+        "ok": 3.7777777777777777,
+        "ko": 0
+    }
+}
+    }
+}
+
+}

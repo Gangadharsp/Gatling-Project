@@ -1,0 +1,10 @@
+{
+  "simulation": "Heroukapp",
+  "simulationId": "heroukapp",
+  "start": 1715603735838,
+  "description": "",
+  "scenarios": ["Create Contact", "Login"],
+  "assertions": [
+
+  ]
+}

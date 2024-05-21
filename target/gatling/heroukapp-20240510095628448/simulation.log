@@ -1,0 +1,7 @@
+RUN	Heroukapp	heroukapp	1715334988448	 	3.6.1
+USER	Login	START	1715334989975
+ERROR	Get Contacts for delete: Failed to build request: No attribute named 'JWTToken' is defined 	1715334990003
+USER	Delete Contacts	START	1715334989975
+USER	Delete Contacts	END	1715334990024
+REQUEST		Login	1715334990034	1715334991076	OK	 
+USER	Login	END	1715334993123
